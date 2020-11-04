@@ -4,6 +4,9 @@
 #include <Windows.h>
 #include <cstdint>
 
+float pi = 3.14159;
+float maxAngleH = 180;
+float maxAngleV = 89;
 
 struct vector3d
 {
