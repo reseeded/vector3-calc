@@ -28,7 +28,7 @@ struct vector3
     float vector3d;
     //re-initialize vector3d and initialize magnitude
     
-    float magnitude = sqrt(x ^ 2 + y ^ 2 + z ^ 2);
+    float magnitude = sqrt(x^2 + y^2 + z^2);
     //calculate magnitude 
     
 };
